@@ -6,7 +6,7 @@
 	
 	Set mp = new Mercadopago
 	
-	mp.construct "CLIENT_ID", "CLIENT_SECRET"
+	mp.construct "8817444304116680", "VVsliSetlhCC6ZkYr51avE5UiDunSoli"
 
 	accessToken = mp.get_access_token()
 
